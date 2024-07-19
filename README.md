@@ -11,12 +11,10 @@
 
 <h2>My Projects</h2>
 <h3>E-Waste Management System</h3>
-
 [Link to the repository](https://github.com/Shreevarshagopal/E-waste-management-system)
 Description: A web-based application designed to facilitate the efficient management and recycling of electronic waste (e-waste).
 
 <h3>Grocery POS System</h3>
-
 [Link to the repository](https://github.com/Shreevarshagopal/Grocery-POS-System)
 Description: A point of sale system for managing grocery store transactions and inventory.
 <br>
@@ -27,5 +25,5 @@ Description: A point of sale system for managing grocery store transactions and 
 <a href="https://www.hackerrank.com/@shreevarshagopal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shreevarshagopal" height="30" width="40" /></a>
 </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreevarshagopal&show_icons=true&locale=en&layout=compact" alt="shreevarshagopal"/></p>
-<h2 align="center">Thanks for visiting my profile!</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreevarshagopal&show_icons=true&locale=en&layout=compact" alt="shreevarshagopal"widht="300"/></p>
+
